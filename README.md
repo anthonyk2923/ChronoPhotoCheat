@@ -10,6 +10,6 @@ Install a user script mangager such as tampermonkey via your browser webstore
 ### Red Pill - suffer but more config
 open you script manager and make an new script, after that copy and paste the code in app.js and save
 
-### Red Pill - easier 
+### Blue Pill - easier 
 
 Open https://greasyfork.org/en/scripts/492681-chronophoto-cheat and hit download, follow the instructions 
